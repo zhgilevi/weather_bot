@@ -50,7 +50,7 @@ pandas==0.22.0
 pandas-datareader==0.6.0
 PasteDeploy==1.5.2
 pefile==2017.11.5
-Pillow==5.1.0
+Pillow==6.2.0
 pipenv==2018.7.1
 plaster==1.0
 plaster-pastedeploy==0.4.2
